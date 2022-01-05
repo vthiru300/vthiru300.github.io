@@ -204,23 +204,21 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://vthiru300.github.io/posts/introduction/</link>
-      <pubDate>Tue, 08 Jun 2021 08:06:25 +0600</pubDate>
-      
-      <guid>https://vthiru300.github.io/posts/introduction/</guid>
-      <description>Just checking if everything works.
-WIll be removed later
- Hero image is in the same directory as the post. This post should be at top of the sidebar.  </description>
-    </item>
-    
-    <item>
       <title>The Spark</title>
       <link>https://vthiru300.github.io/posts/the-spark/</link>
       <pubDate>Tue, 08 Jun 2021 08:06:25 +0600</pubDate>
       
       <guid>https://vthiru300.github.io/posts/the-spark/</guid>
       <description>Ignition The picture represents one of the early experiences I had with machines. Apart from using the ticketing systems in buses and trains in Japan, I had the opportunity to use vending machines and automated ordering systems in restaurants. As a child, I was fond of using these systems. At school, every Friday, we were allowed to get money to vend-out our favorite drink after lunch. I would find every opportunity to make my parents buy food or a drink from these machines.</description>
+    </item>
+    
+    <item>
+      <title>Diversity Essay</title>
+      <link>https://vthiru300.github.io/posts/diversityessay/</link>
+      <pubDate>Sun, 05 Jan 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://vthiru300.github.io/posts/diversityessay/</guid>
+      <description>Essay Diversity resonates with me on many levels; I have had the privilege of growing up in a multicultural environment. As a native of India, my country is well-known for its diversity in languages, cultures and traditions. I have spent most of my childhood in Japan around people from various walks of life. I feel lucky to have a friend living in a different country and sharing their experiences with people.</description>
     </item>
     
   </channel>
